@@ -1,0 +1,8 @@
+* {
+    text-align: center;
+    padding: 30px;
+    background-color: rgba(0, 191, 255, 0.25);
+}
+#guessInput,button{
+    padding: 0;
+}
